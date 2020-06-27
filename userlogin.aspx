@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="userlogin.aspx.cs" Inherits="Player_Registration_Form.userlogin" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="userlogin.aspx.cs" Inherits="Player_Registration_Form.userlogin" Async ="true" %>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
    <head runat="server">
